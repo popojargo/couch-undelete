@@ -13,5 +13,5 @@ npm install -g couch-undelete
 # Usage
 
 ```bash
-couch-undelete http://url_to_db:5984 you_doc_id
+couch-undelete http://url_to_db:5984 your_doc_id
 ```
