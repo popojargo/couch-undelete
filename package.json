@@ -1,17 +1,22 @@
 {
   "name": "couch-undelete",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple CLI that let you undelete a certain document",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "couchdb-undelete": "./index.js"
+    "couch-undelete": "./index.js"
   },
   "author": "Alexis Cote",
   "license": "MIT",
   "dependencies": {
     "node-fetch": "^1.7.3"
+  },
+  "homepage": "https://github.com/popojargo/couch-undelete#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popojargo/couch-undelete.git"
   }
 }

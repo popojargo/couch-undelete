@@ -2,7 +2,7 @@
 var fetch = require('node-fetch');
 var logEnabled = true;
 if (process.argv.length < 4) {
-    console.error("You must use the script like this: couchdb-undelete http://myurl:5984/db doc1");
+    console.error("You must use the script like this: couch-undelete http://myurl:5984/db doc1");
     return process.exit(1);
 }
 
