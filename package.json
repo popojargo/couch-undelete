@@ -12,7 +12,7 @@
   "author": "Alexis Cote",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^1.7.3"
+    "node-fetch": "^2.6.7"
   },
   "homepage": "https://github.com/popojargo/couch-undelete#readme",
   "repository": {
